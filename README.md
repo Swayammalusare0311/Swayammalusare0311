@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swayammalusare0311
-- 👀 I’m interested in Artificial Intelligence amd Java also
-- 🌱 I’m currently learning Web developement and Persuing Information Technology
+- 👀 Full Stack Java Developer with Hands on Experinece
+- 🌱 I’m currently Exploring new technologies and Persuing Information Technology
 = reach Out me via social media and LInkedIN that is mention on my profile
 
 
