@@ -14,8 +14,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Swayammalusare0311&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://itsvg.in/
